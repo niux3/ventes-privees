@@ -1,0 +1,34 @@
+#characters-list .content{
+    padding: 0 4.2rem;
+}
+
+#characters-list .content article{
+    background-color: #f4f4f4;
+    border: .1rem solid #e6e6e6;
+    border-radius:.3rem;
+}
+
+#characters-list .content article .illustration{
+    position: relative;
+    min-height: 24rem;
+    overflow: hidden;
+}
+
+#characters-list .content article .illustration img{
+    position: absolute;left: 50%;top: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 22rem;
+}
+
+#characters-list .content article .caption{
+    padding: 1rem;
+    background-color: #fff;
+}
+
+#characters-list .content article .caption h2{
+    font-size: 1.8rem;
+}
+
+#characters-list .content article .caption nav a{
+    margin-right: 1rem;
+}

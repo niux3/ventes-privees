@@ -1,0 +1,26 @@
+.listLinks{
+
+}
+
+.listLinks h3{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 1.5rem 0;
+}
+
+.listLinks ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.listLinks ul li a{
+    display: block;
+    text-decoration: none;
+    border-bottom: .1rem solid #e6e6e6;
+    padding: 1rem 0;
+}
+
+.listLinks ul li:first-child a{
+    border-top: .1rem solid #e6e6e6;
+}
