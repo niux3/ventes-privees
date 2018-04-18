@@ -3,8 +3,8 @@
 Dans le cadre de votre entretien, vous devez effectuer un petit exercice sur REACT.
 Vous devrez créer une simple page listant les héros Marvel et une page de détail comme sur les écrans suivants :
 
-- [![Liste des super héros](http://url.com)](http://url.com)
-- [![Liste des super héros](http://url.com)](http://url.com)
+- [![Liste des super héros](https://raw.githubusercontent.com/niux3/ventes-privees/master/index-heros.jpg)](https://raw.githubusercontent.com/niux3/ventes-privees/master/index-heros.jpg)
+- [![Liste des super héros](https://raw.githubusercontent.com/niux3/ventes-privees/master/fiche-identite.jpg)](https://raw.githubusercontent.com/niux3/ventes-privees/master/fiche-identite.jpg)
 
 ## Côté technique
 
